@@ -218,4 +218,9 @@ nav h1 {
 #back-to-top {
   border-radius: 5px;
   cursor: pointer;
+  opacity: 0.5;
+}
+
+#back-to-top:hover {
+  opacity: 1.5;
 }
